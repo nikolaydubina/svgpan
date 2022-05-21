@@ -1,4 +1,4 @@
-module github.com/nikolaydubina/go-svgpan
+module github.com/nikolaydubina/svgpan
 
 go 1.17
 
